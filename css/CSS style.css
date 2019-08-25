@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+    
+}
+
+.wrap{
+
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    background-image: url(photo-1507149833265-60c372daea22.jpeg);
+    overflow: hidden;
+    
+    filter:brightness(.5);
+    
+}
